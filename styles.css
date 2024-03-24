@@ -37,7 +37,7 @@ h2 {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 140px 20px;
 
   p {
     font-size: 36px;
