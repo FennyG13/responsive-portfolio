@@ -129,6 +129,24 @@ footer {
   }
 }
 
+.about-hero {
+  padding: 140px 20px;
+
+  h1 {
+    font-size: 64px;
+    line-height: 80px;
+  }
+
+  h2 {
+    font-size: 18px;
+    font-family: var(--primary-font);
+  }
+}
+
+.about-hero-content {
+  margin: 30px;
+}
+
 @media (max-width: 960px) {
   h1 {
     font-size: 60px;
@@ -154,5 +172,18 @@ footer {
   .project-details {
     padding: 8px 12px;
     text-align: center;
+  }
+
+  .about-hero {
+    text-align: center;
+    padding: 80px 20px;
+
+    h1 {
+      font-size: 60px;
+    }
+
+    h2 {
+      font-size: 16px;
+    }
   }
 }
