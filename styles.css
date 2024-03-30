@@ -147,6 +147,12 @@ footer {
     font-size: 24px;
     line-height: 36px;
     font-family: var(--primary-font);
+    color: var(--primary-color);
+  }
+
+  h4 {
+    font-size: 24px;
+    font-family: var(--primary-font);
   }
 
   .content {
@@ -172,7 +178,7 @@ footer {
   }
 
   .showcase {
-    font-size: 44px;
+    font-size: 32px;
     margin-bottom: 10px;
   }
 
